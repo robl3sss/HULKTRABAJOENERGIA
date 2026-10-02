@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%277%27 fill=%27%2386f6a5%27/%3E%3Ctext x=%278%27 y=%2724%27 font-size=%2723%27 font-family=%27Arial%27 font-weight=%27700%27 fill=%27%230c1a19%27%3EH%3C/text%3E%3C/svg%3E"><title>HULK TRABAJO Y ENERGÍA</title>
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/lab.css">
+<link rel="stylesheet" href="css/simulator.css">
+<meta name="theme-color" content="#050807">
+<meta name="description" content="Simulador 3D de trabajo y energía con Hulk. Ajusta fuerza, masa, fricción y recorrido.">
+</head>
+<body>
+
+<div id="welcome" role="dialog" aria-modal="true" aria-label="Bienvenido a Hulk Trabajo y Energía">
+  <div class="welcome-shell">
+    <div class="welcome-art"><img src="assets/ui/hulk-inicio.png" alt="Hulk rodeado de energía verde" fetchpriority="high"></div>
+    <div class="welcome-card">
+      <div class="kicker">SIMULADOR INTERACTIVO 3D</div>
+      <h2><span>HULK</span><br>TRABAJO Y ENERGÍA</h2>
+      <p id="loadTitle">Cargando simulador…</p>
+      <div class="load-track" role="progressbar" aria-label="Carga del simulador" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="loadBar"></i></div>
+      <p id="loadDetail">Preparando escenario · 0%</p>
+      <button class="enter" id="enterBtn" disabled>INICIAR SIMULACIÓN</button>
+    </div>
+  </div>
+</div>
+
+<div class="hulk-bg" aria-hidden="true"></div>
+
+<div class="app">
+  <div class="topbar">
+    <div class="brand">
+      <div class="logo">H</div>
+      <div><b>HULK TRABAJO Y ENERGÍA</b><small>Trabajo · Energía · Movimiento</small></div>
+    </div>
+    <div class="actions">
+      <button class="icon-btn" id="soundBtn">Sonido: ON</button>
+      <button class="icon-btn" id="helpBtn">Guía rápida</button><button class="icon-btn" id="aboutBtn">Información</button>
+    </div>
+  </div>
+
+
+
+  <div class="modes">
+    <button class="mode active" data-mode="car"><b>01 · Automóvil</b></button>
+    <button class="mode" data-mode="lift"><b>02 · Roca</b></button>
+    <button class="mode" data-mode="incline"><b>03 · Pendiente</b></button>
+  </div>
+
+  <div class="layout">
+    <aside class="panel controls-panel">
+      <div class="panel-head"><h2>Panel de variables</h2><span id="modeLabel">Automóvil</span></div>
+      <div class="panel-body">
+        <div class="control"><div class="control-row"><span id="massLabel">Masa del automóvil</span><span id="massVal">1200 kg</span></div><input id="mass" type="range" min="200" max="3000" step="50" value="1200"></div>
+        <div class="control"><div class="control-row"><span id="forceLabel">Fuerza aplicada</span><span id="forceVal">5000 N</span></div><input id="force" type="range" min="0" max="12000" step="100" value="5000"></div>
+        <div class="control"><div class="control-row"><span id="distanceLabel">Distancia</span><span id="distanceVal">15 m</span></div><input id="distance" type="range" min="1" max="30" step="1" value="15"></div>
+        <div class="control" id="angleControl"><div class="control-row"><span id="angleLabel">Ángulo de la fuerza</span><span id="angleVal">0°</span></div><input id="angle" type="range" min="0" max="45" step="1" value="0"></div>
+        <div class="control"><div class="control-row"><span>Velocidad inicial</span><span id="velocityVal">0 m/s</span></div><input id="velocity" type="range" min="0" max="20" step="0.5" value="0"></div>
+        <div class="control" id="frictionControl"><div class="control-row"><span>Coeficiente de fricción</span><span id="frictionVal">0.20</span></div><input id="friction" type="range" min="0" max="0.8" step="0.01" value="0.20"></div>
+
+        
+
+        <div class="formulas" id="formulaBox">Wneto = Kf − Kᵢ</div>
+      </div>
+    </aside>
+
+    <main class="right">
+      <section class="panel scene-panel">
+        <div class="panel-head"><h2 id="sceneTitle">Hulk empujando un automóvil</h2><span id="sceneSub">Trabajo horizontal</span></div>
+        <div class="camera-bar" aria-label="Controles de cámara">
+          <button data-view="cinematic" aria-pressed="true">CINEMÁTICA</button><button data-view="side" aria-pressed="false">LATERAL</button><button data-view="top" aria-pressed="false">SUPERIOR</button><button id="cameraReset">CENTRAR</button>
+        </div>
+        <div class="scene-wrap" id="stage">
+          <div id="viewport" aria-label="Escena 3D interactiva. Arrastra para rotar y pellizca para acercar."></div>
+          <div class="scene-tag"><span class="led"></span><strong id="gaugeText">LISTO</strong></div>
+          
+          <div class="hud" aria-label="Datos actuales"><div><small>VELOCIDAD</small><b id="hudV">0 m/s</b></div><div><small>FUERZA NETA</small><b id="hudF">0 N</b></div><div><small>TRABAJO NETO</small><b id="hudW">0 J</b></div><div><small>ENERGÍA CINÉTICA</small><b id="hudK">0 J</b></div><div><small>PROGRESO</small><b id="hudP">0%</b></div></div>
+          <div id="sceneError" role="alert" hidden></div><div class="scene-bottom"><span id="sceneScale">1 unidad de escena = 1 m</span><span>ARRASTRAR · ROTAR / PELLIZCAR · ZOOM</span></div>
+        </div>
+        <div class="scene-tools"><button id="forcesBtn" aria-pressed="false">MOSTRAR FUERZAS</button><label><input id="followCamera" type="checkbox" checked> Seguimiento de cámara</label><span id="timeScale">Tiempo físico ×1</span></div>
+        <div class="force-legend" id="forceLegend" hidden><span style="--c:#73ff9d">F · Aplicada</span><span style="--c:#ff6c7a">mg · Peso</span><span style="--c:#6ce8ff">N · Normal</span><span style="--c:#ffd970">f · Fricción</span><span style="--c:#ad92ff">mg∥ / mg⊥ · Componentes</span><span>⊙ hacia la cámara · ⊗ alejándose</span></div>
+        <div class="travel-track"><i id="travelBar"></i></div>
+        </section>
+        <div class="buttons simulation-buttons"><button class="primary" id="startBtn" disabled>INICIAR</button><button class="secondary" id="pauseBtn" disabled>PAUSAR</button><button class="secondary" id="resetBtn">REINICIAR</button></div>
+        <section class="panel results-panel"><div class="panel-head"><h2>Resultados físicos</h2><span id="travelResult">Recorrido previsto</span></div>
+        <div class="metrics">
+          <div class="metric"><small>Trabajo aplicado</small><b id="workApplied">0 J</b></div>
+          <div class="metric"><small id="resistLabel">Trabajo de fricción</small><b id="workResist">0 J</b></div>
+          <div class="metric"><small>Trabajo neto</small><b id="workNet">0 J</b></div>
+          <div class="metric"><small>Energía cinética final</small><b id="kineticFinal">0 J</b></div>
+          <div class="metric"><small>Energía potencial final</small><b id="potentialFinal">0 J</b></div>
+          <div class="metric"><small>Velocidad final</small><b id="finalVelocity">0 m/s</b></div>
+          <div class="metric"><small id="auxLabel">Fuerza de fricción</small><b id="auxValue">0 N</b></div>
+          <div class="metric"><small>Energía cinética inicial</small><b id="kineticInitial">0 J</b></div>
+        </div>
+
+        <div class="status" id="status" role="status" aria-live="polite">Ajusta los valores y presiona <b>INICIAR</b>.</div>
+      </section>
+
+
+      <section class="analytics">
+        <div class="panel chart-card">
+          <div class="panel-head" style="padding:0 0 13px;border-bottom:0"><h2>Gráfica de energía y trabajo</h2><span>progreso del recorrido</span></div>
+          <div class="chart-container"><canvas id="chart" width="900" height="320" role="img" aria-label="Trabajo y energías respecto al recorrido, en metros y joules."></canvas><output id="chartTip" hidden></output></div>
+          <div class="legend">
+            <span><i class="dot" style="background:#55f58c"></i>Trabajo neto</span>
+            <span><i class="dot" style="background:#66e8ff"></i>Energía cinética</span>
+            <span><i class="dot" style="background:#ffe07a"></i>Energía potencial</span>
+            <span><i class="dot" style="background:#ff7180"></i>Trabajo resistente (negativo)</span>
+          </div>
+        </div>
+
+        <div class="panel energy-card">
+          <div class="panel-head" style="padding:0 0 13px;border-bottom:0"><h2>Balance energético</h2><span>comparación</span></div>
+          <div class="energy-list">
+            <div class="energy-row"><div class="r1"><span>Trabajo neto</span><b id="barNetText">0 J</b></div><div class="bar"><div class="fill green" id="barNet"></div></div></div>
+            <div class="energy-row"><div class="r1"><span>Energía cinética</span><b id="barKText">0 J</b></div><div class="bar"><div class="fill cyan" id="barK"></div></div></div>
+            <div class="energy-row"><div class="r1"><span>Energía potencial</span><b id="barUText">0 J</b></div><div class="bar"><div class="fill yellow" id="barU"></div></div></div>
+            <div class="energy-row"><div class="r1"><span>Resistencia / pérdidas</span><b id="barRText">0 J</b></div><div class="bar"><div class="fill red" id="barR"></div></div></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+</div>
+
+<dialog id="helpDialog"><button class="close-dialog" aria-label="Cerrar guía">×</button><p class="kicker">HULK TRABAJO Y ENERGÍA · GUÍA</p><h2>Explora el trabajo y la energía</h2><ol><li>Selecciona uno de los tres experimentos.</li><li>Ajusta masa, fuerza y recorrido.</li><li>Activa las fuerzas para ver el diagrama.</li><li>Presiona INICIAR; puedes pausar y reanudar.</li><li>Observa a Hulk y el objeto desde las tres cámaras.</li><li>Consulta los resultados debajo de la escena.</li><li>Toca la gráfica para leer valores del recorrido.</li><li>Comprueba que Kᵢ + Wneto = Kf.</li></ol><p>Un dedo rota la cámara; dos dedos ajustan el zoom. Las magnitudes se calculan sin redondear internamente.</p></dialog>
+<dialog id="aboutDialog"><button class="close-dialog" aria-label="Cerrar información">×</button><p class="kicker">HULK TRABAJO Y ENERGÍA</p><h2>Datos del simulador</h2><p>g = 9.81 m/s² · Fuerza constante · Fricción estática y cinética con el mismo coeficiente.</p><p>La gráfica y el HUD muestran el tramo calculado. Al finalizar se conserva el último instante; el frenado posterior de la roca no se simula.</p><p id="modelInfo">Modelos 3D proporcionados: Hulk y Mazda MX-5.</p><p>Three.js · MIT. Modelos e imagen: recursos proporcionados por el usuario.</p></dialog>
+<script>
+if(location.protocol==='file:'){
+ document.getElementById('loadTitle').textContent='ABRE EL SIMULADOR CON EL LANZADOR';
+ document.getElementById('loadDetail').textContent='Extrae todo el ZIP y abre INICIAR_HULK_ENERGIA.bat (Windows), o ejecuta python3 start_server.py. Los modelos necesitan el servidor local.';
+}
+</script>
+<script type="module" src="js/app.js?v=3.2"></script>
+</body>
+</html>

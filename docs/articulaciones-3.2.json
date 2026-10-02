@@ -1,0 +1,49 @@
+{
+  "reports": [
+    {
+      "mode": "car",
+      "frames": 948,
+      "helperError": 4.6591573710230705e-7,
+      "changedScale": false,
+      "maxJointFrameDeltaDegrees": 9.820247026353874,
+      "maxHandError": 0.00010321984463769844,
+      "maxWrist": 60.69730235594555,
+      "minKnee": 62.99516632342093,
+      "maxKnee": 99.05940615280161,
+      "minElbow": 50.28335339606739,
+      "maxElbow": 74.23963087314256,
+      "groundMin": 0.00599999999999961
+    },
+    {
+      "mode": "lift",
+      "frames": 210,
+      "helperError": 5.813917277608383e-7,
+      "changedScale": false,
+      "maxJointFrameDeltaDegrees": 12.264906648050333,
+      "maxHandError": 0.02526827759699881,
+      "maxWrist": 68.00000299155514,
+      "minKnee": 56.97507752763626,
+      "maxKnee": 124.99996348640624,
+      "minElbow": 12.000039458316838,
+      "maxElbow": 113.6490606176769,
+      "groundMin": 0.005999999999999827
+    },
+    {
+      "mode": "incline",
+      "frames": 948,
+      "helperError": 4.043597576774971e-7,
+      "changedScale": false,
+      "maxJointFrameDeltaDegrees": 9.891695846662119,
+      "maxHandError": 0.00011038199440239766,
+      "maxWrist": 68.0000006941265,
+      "minKnee": 37.830045901514794,
+      "maxKnee": 81.94694704940078,
+      "minElbow": 65.27233603348193,
+      "maxElbow": 85.71541719611685,
+      "groundMin": 0.005999999999997563
+    }
+  ],
+  "mobileRequests": 1,
+  "desktopRequests": 0,
+  "errors": []
+}

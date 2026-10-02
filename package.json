@@ -1,0 +1,11 @@
+{
+  "name": "hulk-trabajo-energia",
+  "private": true,
+  "version": "3.2.0",
+  "type": "module",
+  "description": "Laboratorio de trabajo y energía con el FBX original de Hulk",
+  "scripts": {
+    "test": "node tests/physics.test.mjs",
+    "build": "node build.mjs"
+  }
+}

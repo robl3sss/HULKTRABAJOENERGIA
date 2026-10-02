@@ -1,0 +1,210 @@
+{
+  "boundingBox": {
+    "min": [
+      -0.7876442130893293,
+      0.029380878436907815,
+      -0.5708170682435957
+    ],
+    "max": [
+      0.7442168289757564,
+      2.3038344938373605,
+      0.5098551448877957
+    ],
+    "size": [
+      1.5318610420650858,
+      2.2744536154004527,
+      1.0806722131313915
+    ]
+  },
+  "animations": [
+    {
+      "name": "Armature|hero_hulk01_S09@atk02",
+      "duration": 1.4333332777023315,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill07-02",
+      "duration": 1.7333333492279053,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@die",
+      "duration": 1.7999999523162842,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill02",
+      "duration": 3.866666555404663,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill01",
+      "duration": 2.7333333492279053,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@atk01",
+      "duration": 2.066666603088379,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill07-01_cam",
+      "duration": 2.366666555404663,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@idle",
+      "duration": 1.5,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@hit",
+      "duration": 0.5666666626930237,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@dash",
+      "duration": 0.5333333611488342,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill03",
+      "duration": 4,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@wait",
+      "duration": 1,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@walk",
+      "duration": 0.800000011920929,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill03_cam",
+      "duration": 4,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@succ_cam",
+      "duration": 3.866666555404663,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill04",
+      "duration": 3.5999999046325684,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@collection",
+      "duration": 0.03333333507180214,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@stun",
+      "duration": 1.6666666269302368,
+      "tracks": 195
+    },
+    {
+      "name": "Armature|hero_hulk01_S09@skill05",
+      "duration": 3.566666603088379,
+      "tracks": 195
+    }
+  ],
+  "meshes": [
+    {
+      "name": "hero_hulk01_S09_02",
+      "skinned": true,
+      "vertices": 13044,
+      "triangles": 4348,
+      "uv": true,
+      "normals": true,
+      "materials": [
+        {
+          "name": "hero_hulk01_S09_02",
+          "type": "MeshPhongMaterial",
+          "map": "base_color_texture",
+          "url": "hero_hulk01_S09_02.png",
+          "opacity": 1,
+          "transparent": true
+        }
+      ]
+    },
+    {
+      "name": "hero_hulk01_S09_03",
+      "skinned": true,
+      "vertices": 10542,
+      "triangles": 3514,
+      "uv": true,
+      "normals": true,
+      "materials": [
+        {
+          "name": "hero_hulk01_S09_03",
+          "type": "MeshPhongMaterial",
+          "map": "base_color_texture",
+          "url": "hero_hulk01_S09_03.png",
+          "opacity": 1,
+          "transparent": true
+        }
+      ]
+    },
+    {
+      "name": "kingpin_wp03",
+      "skinned": true,
+      "vertices": 747,
+      "triangles": 249,
+      "uv": true,
+      "normals": true,
+      "materials": [
+        {
+          "name": "kingpin_wp03",
+          "type": "MeshPhongMaterial",
+          "map": "base_color_texture",
+          "url": "kingpin_wp03.png",
+          "opacity": 1,
+          "transparent": true
+        }
+      ]
+    },
+    {
+      "name": "hero_hulk01_S09_04",
+      "skinned": true,
+      "vertices": 8115,
+      "triangles": 2705,
+      "uv": true,
+      "normals": true,
+      "materials": [
+        {
+          "name": "hero_hulk01_S09_04",
+          "type": "MeshPhongMaterial",
+          "map": "base_color_texture",
+          "url": "hero_hulk01_S09_04.png",
+          "opacity": 1,
+          "transparent": true
+        }
+      ]
+    },
+    {
+      "name": "hero_hulk01_S09_01",
+      "skinned": true,
+      "vertices": 13308,
+      "triangles": 4436,
+      "uv": true,
+      "normals": true,
+      "materials": [
+        {
+          "name": "hero_hulk01_S09_01",
+          "type": "MeshPhongMaterial",
+          "map": "base_color_texture",
+          "url": "hero_hulk01_S09_01.png",
+          "opacity": 1,
+          "transparent": true
+        }
+      ]
+    }
+  ],
+  "uniqueBoneNames": 64,
+  "note": "Snapshot del FBX antes de normalización de escala y sustitución de materiales. URL es la textura difusa enlazada por el FBX."
+}

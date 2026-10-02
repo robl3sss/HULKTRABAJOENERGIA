@@ -1,0 +1,150 @@
+[
+  {
+    "file": "assets/car/mazda-mx5-mobile.bin",
+    "sha256": "d48db88afe5e7bfd9e90438db398de05ef81cc44f93e3cb2d9d37f0e157eb296"
+  },
+  {
+    "file": "assets/car/mazda-mx5.glb",
+    "sha256": "6621d0392d0cdda531b35d046d790c59650bd8cf68e00f489912a2bf4e7738bb"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_brake_disc_anisotropy.jpg",
+    "sha256": "462e6196d23855f3bb4fa7f6a650c12ee9201dcadfc6528204e34b8b466b333d"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_brake_lgt_normal.jpg",
+    "sha256": "57ee3a749b7f1b0b1d5c2867ebf750d6cba6ee1ac8f2894939bd18aa009ed6ab"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_bumps_normal.jpg",
+    "sha256": "87e6dbb24ce36b68f83f9a7c897476ee215d06ada25f7957c339e4a643a9939a"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_carpet_normal.jpg",
+    "sha256": "6aa2d06879dec9a28513030e0e77683ff34fda86f345b528d716e6aef5dcfbdb"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_guages_diffuse.jpg",
+    "sha256": "d6ae4106fe10cddea0c6b78b8c5ca3defea57ffbb06134a0cd004f60169338c9"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_leather_normal.jpg",
+    "sha256": "e2be8eba11e3def0ae2bf96e92bbeb4fa21b269d1b897070ef91a70926d01ee5"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_mesh_alpha.jpg",
+    "sha256": "5b77d34ba235bb5804440695c63d0463ba72ab840e7bdb37445594695beb078a"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_plastic_normal.jpg",
+    "sha256": "de9d5b2ee6bb20e9b7d00b9ab49394fa6ed0e41a4e2c564067c66bb576bc0aa0"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_plate_diffuse.jpg",
+    "sha256": "a049af5619b4f2045d6eb287950a3055e4fc243988064b4b6a0f7f1df73e077c"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_plate_normal.jpg",
+    "sha256": "27e1e8cac6b257dab0c814c5ba3fd8f4c6b3423de0eecf639f2a54f603126152"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_seatbelt_normal.jpg",
+    "sha256": "65746f86b321ce5d92604c9556e9a0e13063bd13c6363d47390703aefa59f686"
+  },
+  {
+    "file": "assets/car/textures/VP_Free_MazdaMX5_tire_sidewall_bump.jpg",
+    "sha256": "c4714214a38a3999d2fd04e705649c03fc18b307fbab4dc0b5b50613874dcb32"
+  },
+  {
+    "file": "assets/hulk/Hulk (Brand New Day).fbx",
+    "sha256": "d8dae9996db41d312d46f87fd89395bc62f025280464d512e5e504638695547f"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_01.png",
+    "sha256": "70ae61da3e9ce262b242fa11cb4f2c0d66043e2000257431e6049994418e9626"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_01_sp.png",
+    "sha256": "33de0642f757d83c2edeba45e8f73d1e00b97e3091acb57ebe492500da0a87f6"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_02.png",
+    "sha256": "5165b661e81b2639230f2afc092bd208964d0a12d6a5d812aff6f923a3b901c0"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_02_sp.png",
+    "sha256": "54fec301ba2f0ee09daff3c2921641d6faffc557b22fdd15e1f4807175ded244"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_03.png",
+    "sha256": "0370a3ca246f27e5e2855dc174189b0b94968011567ee67889db8905f63ba1fd"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_03_sp.png",
+    "sha256": "7008d5eeae0231972a7d1e3d1e29a9bcbab014be660108a601c531ddb279a0c4"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_04.png",
+    "sha256": "00f5da738dd7a5462824dbfb537f20a188b89e9e2e5fad89e309b6ab62a7372b"
+  },
+  {
+    "file": "assets/hulk/textures/hero_hulk01_S09_04_sp.png",
+    "sha256": "b3a6b041a8d7a9774178af54739c7fb8dabba72cc7861791f2dac4a5f84a1853"
+  },
+  {
+    "file": "assets/hulk/textures/kingpin_wp03.png",
+    "sha256": "c1d5cd4433ac53b208cb0c8e1f859414d0ca3849c418b1bb3e7ea72a4c3a6ffa"
+  },
+  {
+    "file": "assets/hulk-background.png",
+    "sha256": "2a79c888c2671b65be356acb77d3cd93807cc3bd239aef7e0a146fb98842eed1"
+  },
+  {
+    "file": "assets/ui/hulk-inicio.png",
+    "sha256": "ec7f4c8b4edea6aead76a1f419d2e35161535231a53708a3f8392fe1bf581701"
+  },
+  {
+    "file": "js/vendor/BufferGeometryUtils.js",
+    "sha256": "248b3e8420bd3de805ca01845c1b0cc62aa2766f3c56bdcead265e306f8e715c"
+  },
+  {
+    "file": "js/vendor/FBXLoader.js",
+    "sha256": "e49da528f64179bdd8aaf4755e21e375ea8d2d77f4cc44e0db44cf57f5c37f9e"
+  },
+  {
+    "file": "js/vendor/FFLATE-LICENSE.txt",
+    "sha256": "805f6cb28bb8b6d3a0badd83c93bccd9671fa01a3b4b92b7042b0743325ac243"
+  },
+  {
+    "file": "js/vendor/GLTFLoader.js",
+    "sha256": "2904f2823e23d5bc1d64512bf4c0d777ac44d728d47c34a9e3d48ce8ef6b761d"
+  },
+  {
+    "file": "js/vendor/NURBSCurve.js",
+    "sha256": "bdd303e1bb86f218a3653eb82b07431d96cae946952b573815ae6929b48b4fb7"
+  },
+  {
+    "file": "js/vendor/NURBSUtils.js",
+    "sha256": "55db7b27fd1455766189756e554dfb63e35d53613383f9f4e2ae1532b4008e60"
+  },
+  {
+    "file": "js/vendor/OrbitControls.js",
+    "sha256": "06864a0fcb647730bfbc690b6c25a121199d716a3e299a40158509cbd247c3bf"
+  },
+  {
+    "file": "js/vendor/THREE-LICENSE.txt",
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  {
+    "file": "js/vendor/fflate.module.js",
+    "sha256": "209a4412eb48ce609edb4391992a792ffcc3983d30ee7e2b0b89a8c470f3cd8a"
+  },
+  {
+    "file": "js/vendor/three.core.js",
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  {
+    "file": "js/vendor/three.module.js",
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+  }
+]

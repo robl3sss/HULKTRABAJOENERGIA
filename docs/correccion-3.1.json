@@ -1,0 +1,36 @@
+{
+  "reports": [
+    {
+      "mode": "car",
+      "helperError": 5.594198608793732e-7,
+      "lengthError": 4.0415776408897486e-7,
+      "changedScale": false,
+      "helpers": 8,
+      "finite": true,
+      "triangles": 59203
+    },
+    {
+      "mode": "lift",
+      "helperError": 3.9905656046279603e-7,
+      "lengthError": 1.729233600200608e-7,
+      "changedScale": false,
+      "helpers": 8,
+      "finite": true,
+      "triangles": 16462
+    },
+    {
+      "mode": "incline",
+      "helperError": 4.530928962021008e-7,
+      "lengthError": 4.1364841668611874e-7,
+      "changedScale": false,
+      "helpers": 8,
+      "finite": true,
+      "triangles": 16544
+    }
+  ],
+  "mobileRequests": 2,
+  "desktopRequests": 0,
+  "errors": [],
+  "networkRetry": true,
+  "blockedTextures": true
+}

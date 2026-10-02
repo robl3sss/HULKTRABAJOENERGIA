@@ -1,0 +1,2396 @@
+{
+  "source": "carro-2(1).zip → source/Carro 2.rar → 1.fbx",
+  "excluded": "Paredes y objetos del escenario original",
+  "originalTriangles": 397871,
+  "optimizedTriangles": 56829,
+  "sizeBytes": 2911176,
+  "report": [
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 4281,
+      "optimized": 940
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 321,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 1791,
+      "optimized": 394
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 50,
+      "optimized": 50
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_brake_light",
+      "original": 7,
+      "optimized": 7
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 118,
+      "optimized": 118
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_brake_light",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 4282,
+      "optimized": 942
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 321,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 1793,
+      "optimized": 394
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 50,
+      "optimized": 50
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_brake_light",
+      "original": 7,
+      "optimized": 7
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 118,
+      "optimized": 118
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_brake_light",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 1816,
+      "optimized": 398
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 32,
+      "optimized": 32
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 1008,
+      "optimized": 221
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 32,
+      "optimized": 32
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 32,
+      "optimized": 32
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 96,
+      "optimized": 96
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 574,
+      "optimized": 126
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 32,
+      "optimized": 32
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 1008,
+      "optimized": 220
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 32,
+      "optimized": 32
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 32,
+      "optimized": 32
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 96,
+      "optimized": 96
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 17,
+      "optimized": 17
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 1507,
+      "optimized": 331
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 1490,
+      "optimized": 327
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1576,
+      "optimized": 346
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 237,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 456,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 3965,
+      "optimized": 872
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aclantara",
+      "original": 1060,
+      "optimized": 232
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 4529,
+      "optimized": 995
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black",
+      "original": 1827,
+      "optimized": 849
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 131,
+      "optimized": 131
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 236,
+      "optimized": 99
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_carpet",
+      "original": 724,
+      "optimized": 158
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 48,
+      "optimized": 48
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 1632,
+      "optimized": 358
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 2571,
+      "optimized": 564
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 125,
+      "optimized": 125
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 22,
+      "optimized": 22
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 7,
+      "optimized": 7
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 15,
+      "optimized": 15
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 57,
+      "optimized": 57
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 12,
+      "optimized": 12
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 357,
+      "optimized": 99
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 54,
+      "optimized": 54
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_orange",
+      "original": 45,
+      "optimized": 45
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 2571,
+      "optimized": 565
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 125,
+      "optimized": 125
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 22,
+      "optimized": 22
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 7,
+      "optimized": 7
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 15,
+      "optimized": 15
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 57,
+      "optimized": 57
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 12,
+      "optimized": 12
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_darkchrome",
+      "original": 357,
+      "optimized": 99
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 54,
+      "optimized": 54
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_orange",
+      "original": 45,
+      "optimized": 45
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 1708,
+      "optimized": 374
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_guages",
+      "original": 58,
+      "optimized": 58
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_gum",
+      "original": 2318,
+      "optimized": 509
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 1358,
+      "optimized": 297
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_leather",
+      "original": 14359,
+      "optimized": 3158
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 3306,
+      "optimized": 727
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_mesh",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 389,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 752,
+      "optimized": 164
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 240,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 213,
+      "optimized": 97
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 107,
+      "optimized": 107
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 98,
+      "optimized": 98
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 66,
+      "optimized": 66
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 8,
+      "optimized": 8
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 33,
+      "optimized": 33
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 233,
+      "optimized": 99
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 38,
+      "optimized": 38
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 15,
+      "optimized": 15
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 27,
+      "optimized": 27
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 81,
+      "optimized": 81
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 62,
+      "optimized": 62
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 125,
+      "optimized": 125
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 80,
+      "optimized": 80
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 12,
+      "optimized": 12
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 43,
+      "optimized": 43
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 60,
+      "optimized": 60
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 38,
+      "optimized": 38
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 15,
+      "optimized": 15
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 136,
+      "optimized": 136
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 303,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 650,
+      "optimized": 200
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 120,
+      "optimized": 120
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 40,
+      "optimized": 40
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 204,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 397,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 286,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 51,
+      "optimized": 51
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1205,
+      "optimized": 265
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 302,
+      "optimized": 102
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 40,
+      "optimized": 40
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 472,
+      "optimized": 103
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 786,
+      "optimized": 188
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 165,
+      "optimized": 165
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 77,
+      "optimized": 77
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 483,
+      "optimized": 135
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 9,
+      "optimized": 9
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 132,
+      "optimized": 132
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 166,
+      "optimized": 166
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 40,
+      "optimized": 40
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 237,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 34,
+      "optimized": 34
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 193,
+      "optimized": 193
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 12,
+      "optimized": 12
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 37,
+      "optimized": 37
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 22,
+      "optimized": 22
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 52,
+      "optimized": 52
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 31,
+      "optimized": 31
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 171,
+      "optimized": 171
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 323,
+      "optimized": 101
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 9,
+      "optimized": 9
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 132,
+      "optimized": 132
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 166,
+      "optimized": 166
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 40,
+      "optimized": 40
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 237,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 34,
+      "optimized": 34
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 193,
+      "optimized": 193
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 12,
+      "optimized": 12
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 37,
+      "optimized": 37
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 22,
+      "optimized": 22
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 52,
+      "optimized": 52
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 31,
+      "optimized": 31
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 171,
+      "optimized": 171
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 49,
+      "optimized": 49
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 330,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 593,
+      "optimized": 130
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 138,
+      "optimized": 138
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 911,
+      "optimized": 199
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 114,
+      "optimized": 114
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 1910,
+      "optimized": 420
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 313,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 1069,
+      "optimized": 235
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 13,
+      "optimized": 13
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 123,
+      "optimized": 123
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 312,
+      "optimized": 101
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 150,
+      "optimized": 150
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 332,
+      "optimized": 107
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 192,
+      "optimized": 192
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 120,
+      "optimized": 120
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 118,
+      "optimized": 118
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 560,
+      "optimized": 256
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_aluminum",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 40,
+      "optimized": 40
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 1352,
+      "optimized": 297
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 3936,
+      "optimized": 864
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_bump",
+      "original": 3073,
+      "optimized": 676
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 840,
+      "optimized": 184
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_car_paint",
+      "original": 522,
+      "optimized": 113
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 7089,
+      "optimized": 1558
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 14,
+      "optimized": 14
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 355,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 14,
+      "optimized": 14
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1308,
+      "optimized": 287
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 948,
+      "optimized": 343
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 88,
+      "optimized": 88
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 1876,
+      "optimized": 411
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_bumps",
+      "original": 88,
+      "optimized": 88
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 928,
+      "optimized": 203
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 100,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 13,
+      "optimized": 13
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 277,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 65,
+      "optimized": 65
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 203,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 104,
+      "optimized": 104
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 13,
+      "optimized": 13
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 277,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 65,
+      "optimized": 65
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 203,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 180,
+      "optimized": 180
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 13,
+      "optimized": 13
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 277,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 65,
+      "optimized": 65
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 203,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 104,
+      "optimized": 104
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 24,
+      "optimized": 24
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 5,
+      "optimized": 5
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 13,
+      "optimized": 13
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 277,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 1,
+      "optimized": 1
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 65,
+      "optimized": 65
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 203,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_glass",
+      "original": 3,
+      "optimized": 3
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_redglass",
+      "original": 80,
+      "optimized": 80
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plate",
+      "original": 912,
+      "optimized": 199
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_seatbelt",
+      "original": 476,
+      "optimized": 104
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 94,
+      "optimized": 94
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 46,
+      "optimized": 46
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 132,
+      "optimized": 132
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_seatbelt",
+      "original": 476,
+      "optimized": 104
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 94,
+      "optimized": 94
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_chrome",
+      "original": 46,
+      "optimized": 46
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 132,
+      "optimized": 132
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_leather",
+      "original": 246,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1756,
+      "optimized": 386
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_leather",
+      "original": 16,
+      "optimized": 16
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 71,
+      "optimized": 71
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_leather",
+      "original": 216,
+      "optimized": 99
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1756,
+      "optimized": 386
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_leather",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 71,
+      "optimized": 71
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_leather",
+      "original": 20,
+      "optimized": 20
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 1864,
+      "optimized": 408
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 193,
+      "optimized": 193
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 17,
+      "optimized": 17
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 8,
+      "optimized": 8
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 14,
+      "optimized": 14
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 225,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 193,
+      "optimized": 193
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 17,
+      "optimized": 17
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 8,
+      "optimized": 8
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 14,
+      "optimized": 14
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 290,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 225,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 193,
+      "optimized": 193
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 17,
+      "optimized": 17
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 8,
+      "optimized": 8
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 14,
+      "optimized": 14
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 225,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 193,
+      "optimized": 193
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 17,
+      "optimized": 17
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 8,
+      "optimized": 8
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 4,
+      "optimized": 4
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 2,
+      "optimized": 2
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 14,
+      "optimized": 14
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 6,
+      "optimized": 6
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_plastic_smooth",
+      "original": 10,
+      "optimized": 10
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_Body_black_paint",
+      "original": 290,
+      "optimized": 100
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontLeft_Wheel_tire",
+      "original": 54868,
+      "optimized": 3291
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontLeft_Wheel_rims",
+      "original": 6072,
+      "optimized": 363
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontLeft_Wheel_aluminum",
+      "original": 1048,
+      "optimized": 332
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontLeft_Wheel_rims",
+      "original": 678,
+      "optimized": 418
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontLeft_Wheel_brake_caliper",
+      "original": 1558,
+      "optimized": 134
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontLeft_Wheel_brake_disc",
+      "original": 4600,
+      "optimized": 392
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontRight_Wheel_tire",
+      "original": 54868,
+      "optimized": 3292
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontRight_Wheel_brake_disc",
+      "original": 4600,
+      "optimized": 389
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontRight_Wheel_rims",
+      "original": 6072,
+      "optimized": 363
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontRight_Wheel_aluminum",
+      "original": 1048,
+      "optimized": 332
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontRight_Wheel_rims",
+      "original": 678,
+      "optimized": 418
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_FrontRight_Wheel_brake_caliper",
+      "original": 1558,
+      "optimized": 127
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearLeft_Wheel_tire",
+      "original": 54868,
+      "optimized": 3291
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearLeft_Wheel_brake_disc",
+      "original": 4600,
+      "optimized": 404
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearLeft_Wheel_rims",
+      "original": 6072,
+      "optimized": 363
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearLeft_Wheel_aluminum",
+      "original": 1048,
+      "optimized": 330
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearLeft_Wheel_rims",
+      "original": 678,
+      "optimized": 417
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearLeft_Wheel_brake_caliper",
+      "original": 1558,
+      "optimized": 128
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearRight_Wheel_rims",
+      "original": 6072,
+      "optimized": 364
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearRight_Wheel_aluminum",
+      "original": 1048,
+      "optimized": 336
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearRight_Wheel_rims",
+      "original": 678,
+      "optimized": 418
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearRight_Wheel_brake_disc",
+      "original": 4600,
+      "optimized": 395
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearRight_Wheel_brake_caliper",
+      "original": 1558,
+      "optimized": 132
+    },
+    {
+      "mesh": "VP_Free_MazdaMX5_RearRight_Wheel_tire",
+      "original": 54868,
+      "optimized": 3292
+    }
+  ],
+  "compressedBytes": 1497504,
+  "asset": "assets/car/mazda-mx5-mobile.bin"
+}
